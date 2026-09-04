@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Paras Thakur 👋
 
-<!--
-**parasthakur09/parasthakur09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.E. Computer Science & Engineering Student
 
-Here are some ideas to get you started:
+💻 Interested in AI, Technology & Software Development  
+🌱 Currently learning C++, Python & Data Structures and Algorithms  
+🔧 Exploring IoT and practical technology projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Technologies
+
+- C++
+- Python
+- Data Structures & Algorithms
+- IoT
+- Git & GitHub
+
+## 📚 Currently Learning
+
+- Problem Solving with C++
+- Data Structures & Algorithms
+- Python Programming
+- AI & Emerging Technologies
+
+## 🌟 Leadership & Involvement
+
+- Secretary, Standards Club CU
+- Campus Ambassador
+
+## 🚀 What I'm Working On
+
+Building my programming skills through hands-on projects and continuously exploring new technologies.
+
+## 🤝 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/paras-thakur-tech/)
