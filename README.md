@@ -26,6 +26,15 @@
 - Secretary, Standards Club CU
 - Campus Ambassador
 
+- ## 🚀 Featured Project
+
+**[MineTrace](https://github.com/parasthakur09/MineTrace)**: free, private, explainable risk screening for critical-mineral trade routes.
+
+- Interactive 3D globe of cobalt, lithium, nickel and graphite trade from UN Comtrade data
+- Five explainable risk rules, including mirror-trade gaps and supply concentration (NetworkX)
+- Local AI (Ollama) explanations, automatically checked against the evidence
+- Built with Python, FastAPI, SQLite, React and Three.js
+
 ## 🚀 What I'm Working On
 
 Building my programming skills through hands-on projects and continuously exploring new technologies.
